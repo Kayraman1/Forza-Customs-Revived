@@ -404,45 +404,11 @@ If your device cannot run `armeabi-v7a` applications, this version of the projec
 
 ---
 
-# Technical Documentation
-
-The detailed technical documentation contains the full research behind the patch, including:
-
-* Reverse-engineering findings
-* Failed restoration attempts
-* Exact patch location
-* SHA-256 verification
-* Manual ADB instructions
-* Save-data research
-* Installation behaviour
-* PairIP behaviour
-* Troubleshooting
-* Manual restore procedures
-* Preservation boundaries
-
-If you're interested in **how the restoration actually works**, the detailed documentation is the place to start.
-
----
-
 # Preservation
 
 This project is intended to help preserve a game that can no longer initialize normally through its original service.
 
-The project does **not** distribute the original game.
-
-The repository should contain tools, source code, documentation, hashes, and patch information rather than proprietary game files.
-
-Do not upload:
-
-* Original APKs
-* Patched `libil2cpp.so`
-* Unity asset packages
-* Other people's save data
-* Account tokens
-* Private certificates or signing keys
-* Google/Hutch identifiers
-
-Users should provide their own compatible game files.
+The project does **not** distribute the original game. Only a patched version
 
 ---
 
@@ -460,21 +426,6 @@ Game version:
 What happens:
 Relevant logcat:
 ```
-
-If you are researching the game itself, useful contributions include:
-
-* Compatibility testing
-* Android device testing
-* Reverse-engineering findings
-* Logs
-* Documentation
-* Patches for additional game versions
-* Tools
-* Bug reports
-* Save-transfer testing
-
-When submitting research, please include enough information for someone else to reproduce your findings.
-
 ---
 
 # Roadmap
@@ -509,9 +460,9 @@ The project provides tools and documentation intended for preservation and inter
 
 If this project helped you bring Forza Customs back to life and you'd like to support continued development, you can optionally support the project through the link below:
 
-Link Coming Soon :(
+https://streamelements.com/kayraman1/tip
 
-Support is completely optional and is not required to use the project.
+Support is completely optional and please take care of your needs first
 
 ---
 
@@ -535,6 +486,6 @@ EmiliaPlays for Helping with creation of a working APK
 Sappytron,AllanEndopay and Shawn for Maintaining the SRC Forza Boards
 ---
 
-## Forza Customs Revived
+## ~John Gauntlet
 
 **Bringing Forza Customs back from the grave.**
