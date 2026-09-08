@@ -6,6 +6,7 @@
 #no game files are included. The tool talks to an already connected android
 #device through adb verifies the installed ARMv7 libil2cpp.so, and asks the
 #devices su implementation to overwrite that extracted library in place.
+#ver3
 """
 Forza Customs ADB Patcher
 """
